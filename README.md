@@ -5,6 +5,7 @@
 Built on [Perceptron Mk1](https://docs.perceptron.inc). The point isn't "an LLM that knows about bikes" — any model can describe a bike. The point is **grounding**: Wrench draws a tight box around *the rear derailleur in this exact image*, and returns a diagnosis that **always parses**, because it's decoded against a schema.
 
 **🚀 Try it live (no install):** [huggingface.co/spaces/itsjulespark/bike-repair](https://huggingface.co/spaces/itsjulespark/bike-repair)
+** See Demo Video:** [Youtube Demo](https://www.youtube.com/watch?v=Qrr52GEIoZQ)
 
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/wrench/blob/main/notebooks/wrench_colab.ipynb)
 >
