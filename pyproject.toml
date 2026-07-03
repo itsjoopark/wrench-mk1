@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wrench-bike-copilot"
+version = "0.1.0"
+description = "A grounded, structured bike-repair copilot built on Perceptron Mk1."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "perceptron>=0.3.5",
+    "pillow>=10.0.0",
+    "pydantic>=2.0.0",
+]
+
+[tool.setuptools]
+packages = ["wrench"]
