@@ -8,6 +8,8 @@ Built on [Perceptron Mk1](https://docs.perceptron.inc). The point isn't "an LLM 
 
 **See Demo Video:** [Youtube Demo](https://www.youtube.com/watch?v=Qrr52GEIoZQ)
 
+<img width="2560" height="1440" alt="diy-bike-repair" src="https://github.com/user-attachments/assets/1515a7cd-c65f-46d8-bf4a-ead313290f87" />
+
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/wrench/blob/main/notebooks/wrench_colab.ipynb)
 >
 > _(Replace `YOUR_USERNAME` after you push — the notebook itself is fully self-contained and runs top-to-bottom.)_
