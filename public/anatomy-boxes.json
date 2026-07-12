@@ -1,0 +1,63 @@
+{
+  "width": 1077,
+  "height": 615,
+  "parts": [
+    {
+      "label": "saddle",
+      "x1": 335,
+      "y1": 30,
+      "x2": 452,
+      "y2": 78
+    },
+    {
+      "label": "seatpost",
+      "x1": 393,
+      "y1": 78,
+      "x2": 430,
+      "y2": 197
+    },
+    {
+      "label": "handlebar",
+      "x1": 703,
+      "y1": 88,
+      "x2": 846,
+      "y2": 202
+    },
+    {
+      "label": "stem",
+      "x1": 653,
+      "y1": 108,
+      "x2": 706,
+      "y2": 147
+    },
+    {
+      "label": "brake lever",
+      "x1": 758,
+      "y1": 93,
+      "x2": 841,
+      "y2": 152
+    },
+    {
+      "label": "chain",
+      "x1": 308,
+      "y1": 375,
+      "x2": 497,
+      "y2": 406
+    },
+    {
+      "label": "crank arm",
+      "x1": 463,
+      "y1": 383,
+      "x2": 547,
+      "y2": 462
+    },
+    {
+      "label": "cassette",
+      "x1": 268,
+      "y1": 343,
+      "x2": 347,
+      "y2": 421
+    }
+  ],
+  "raw_text": "MANUAL ESTIMATE — not model-detected. Regenerate with `PERCEPTRON_API_KEY=... python scripts/precompute_anatomy.py` for pixel-accurate, grounded boxes."
+}
